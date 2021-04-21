@@ -1,0 +1,19 @@
+urge_ruleset =🎯全球直连，rules / ACL4SSR / Clash / LocalAreaNetwork.list
+urge_ruleset =🎯全球直连，rules / ACL4SSR / Clash / GoogleCN.list
+urge_ruleset =📹YouTube，rules / ACL4SSR / Clash / YouTube.list
+urge_ruleset =🎥NETFLIX，规则/ACL4SSR/Clash/Netflix.list
+urge_ruleset =🎧Spotify，rules / ACL4SSR / Clash / Spotify.list
+urge_ruleset =📲电报信息，rules / ACL4SSR / Clash / Telegram.list
+urge_ruleset =🎯全球直连，[] GEOIP，CN
+urge_ruleset =🎯全球直连，rules / ACL4SSR / Clash / ChinaCompanyIp.list
+urge_ruleset =🎯全球直连，rules / ACL4SSR / Clash / ChinaDomain.list
+custom_proxy_group =🔯故障转移selectfallback。* http：//www.gstatic.com/generate_204`180
+custom_proxy_group =🚀总经理选择[]🔯故障转移[]🔮负载均衡[]🇭🇰香港[]🇺🇸美国[]🇯🇵日本[]🇸🇬新加坡[]🇹🇼台湾[]🐱🐱专线[] DIRECT` 。*
+custom_proxy_group =🔮负载均衡selectload-balance。* http：//www.gstatic.com/generate_204`180
+custom_proxy_group =♻️后端检测网址测试。* http：//www.gstatic.com/generate_204300
+custom_proxy_group =🎥NETFLIXselectNF | Netflix | NETFLIX |原生|解锁
+custom_proxy_group=🎧 Spotifyselect[]🚀 节点选择`.*
+
+enable_rule_generator=true
+
+overwrite_original_rules=true
